@@ -1,0 +1,25 @@
+WEIGHTAGES OF OBJECTIVES
+
+OBJECTIVES       WEIGHTAGE
+
+PORTABLE           6
+AUTOMATIC          9
+STABILITY          7
+
+
+PUGH CHART
+
+OBJECTIVES    CONCEPT1    CONCEPT2     CONCEPT3 
+
+
+PORTABLE        ++          +           DATUM
+
+AUTOMATIC       0           0           DATUM
+
+STABILITY       +           -           DATUM
+
++SCORE          10          6             0
+
+-SCORE          0           -7            0
+
+TOTAL           10          -1            0
